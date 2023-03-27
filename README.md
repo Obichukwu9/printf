@@ -1,3 +1,5 @@
+Secrets_of_printf.pdf
+
 printf Project
 Description
 This team project is part of the first year curriculum of ALX. _printf replicates the C standard library printf() function.
@@ -76,3 +78,6 @@ Handle the following custom conversion specifier:
 R : prints the rot13'ed string
 [16. * ]
 All the above options work well together.
+Authors
+BECKY ISIJOLA - temmyisijola@gmail.com
+GODSWILL KALU - messagelordwill@gmail.com
